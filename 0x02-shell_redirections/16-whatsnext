@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'bin' tail -n3 /etc/passwd
+grep "root"  tail -n3 /etc/passwd
